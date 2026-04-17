@@ -10,4 +10,4 @@ def apply_discount(price, code_provided):
 
 if __name__ == "__main__":
     # Test it locally with a sample price
-    print(f"Final Price for $100: {apply_discount(100, 'SAVE20')}")
+    print(f"Final Price for $100: {apply_discount(100, 'SAVE50')}")
